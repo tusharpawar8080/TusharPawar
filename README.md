@@ -13,19 +13,19 @@
 
 ### 📡 Ultra-Wideband Antenna Array (Major Project)
 Designing and simulating a UWB antenna array targeted for biomedical applications.  
-📁 GitHub Repo: *(Coming Soon)*
+
 
 ---
 
 ### 📶 2.4 GHz Microstrip Patch Antenna (Mini Project)
 Designed, simulated, fabricated, and successfully tested a microstrip patch antenna at 2.4 GHz.  
-📁 GitHub Repo: *(Coming Soon)*
+
 
 ---
 
 ### 🌱 Automatic Plant Watering System (PBL)
 An Arduino-based home automation system to detect soil moisture and water plants automatically.  
-📁 GitHub Repo: *(Coming Soon)*
+
 
 ---
 
