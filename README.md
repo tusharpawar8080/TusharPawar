@@ -3,7 +3,7 @@
 🎓 Final Year Electronics & Telecommunication Engineering Student at Savitribai Phule Pune University (SPPU)  
 📡 Passionate about Antenna & PCB Design, DBMS, Digital Communication, and Microcontrollers  
 🔧 Currently learning: PLC SCADA & Automation, VLSI, Cloud Computing  
-🎯 Final Year Major Project: Ultra-Wideband Antenna Array for Biomedical Applications  
+🎯 Final Year Major Project: Ultra-Wideband Antenna for Biomedical Applications  
 🌱 Mini Project: 2.4 GHz Microstrip Patch Antenna (Successfully Tested)  
 💧 PBL Project: Automatic Plant Watering System using Arduino (Home Automation)
 
