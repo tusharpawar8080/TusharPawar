@@ -1,63 +1,127 @@
-# 👋 Hi, I'm Tushar Jalindar Pawar
 
-🎓 Final Year Electronics & Telecommunication Engineering Student at Savitribai Phule Pune University (SPPU)  
-📡 Passionate about Antenna & PCB Design, DBMS, Digital Communication, and Microcontrollers  
-🔧 Currently learning: PLC SCADA & Automation, VLSI, Cloud Computing  
-🎯 Final Year Major Project: Ultra-Wideband Antenna Array for Biomedical Applications  
-🌱 Mini Project: 2.4 GHz Microstrip Patch Antenna (Successfully Tested)  
-💧 PBL Project: Automatic Plant Watering System using Arduino (Home Automation)
 
----
+👋 Hi, I'm Tushar Jalindar Pawar
 
-## 🚀 Projects
-
-### 📡 Ultra-Wideband Antenna Array (Major Project)
-Designing and simulating a UWB antenna array targeted for biomedical applications.  
+🎓 Final Year Electronics & Telecommunication Engineering Student
+📍 Savitribai Phule Pune University (SPPU)
 
 
 ---
 
-### 📶 2.4 GHz Microstrip Patch Antenna (Mini Project)
-Designed, simulated, fabricated, and successfully tested a microstrip patch antenna at 2.4 GHz.  
+🚀 About Me
+
+I am passionate about RF & Antenna Design, PCB Development, and Communication Systems.
+I enjoy transforming theoretical concepts into practical, real-world engineering solutions.
+
+Currently expanding my knowledge in:
+
+⚙️ PLC, SCADA & Industrial Automation
+
+💻 VLSI Design
+
+☁️ Cloud Computing
+
+
+
+---
+
+📡 Key Projects
+
+🔬 Ultra-Wideband Flexible Antenna for Biomedical Applications
+
+Designed, simulated, fabricated, and experimentally validated a compact flexible UWB antenna
+
+Substrate: 2 mm low-permittivity foam (εr = 1.07) for flexibility & biocompatibility
+
+Size: 42 mm × 52 mm (compact & wearable-friendly)
+
+
+📊 Key Results:
+
+Bandwidth: 2.33 GHz – 13.03 GHz (S11 < −10 dB)
+
+Covers full FCC UWB band (3.1 – 10.6 GHz)
+
+Peak Realized Gain: 3.8 dBi
+
+Strong agreement between simulation (HFSS) and measurements
+
+
+🔧 Design evolved from circular monopole → dual-ring patch with stepped ground, improving bandwidth and stability
 
 
 ---
 
-### 🌱 Automatic Plant Watering System (PBL)
-An Arduino-based home automation system to detect soil moisture and water plants automatically.  
+📶 2.4 GHz Microstrip Patch Antenna
+
+Designed, simulated, fabricated, and successfully tested
+
+Hands-on experience in RF measurement and antenna tuning
+
+
+
+---
+
+🌱 Automatic Plant Watering System
+
+Arduino-based smart irrigation system
+
+Automated soil moisture detection and water control
+
 
 
 ---
 
-## 🛠️ Technical Skills
+🛠️ Technical Skills
 
-- 📡 Antenna Design & Simulation
-- 🧠 Microcontroller Programming (Arduino)
-- 📘 DBMS & SQL
-- 📟 Digital Communication
-- 🧰 PCB Design (using tools like Eagle, KiCad)
-- 🌐 Cloud Computing (Basics)
-- 🕹 PLC SCADA & Industrial Automation (Learning)
-- ⚙ VLSI Design (Learning)
+Core Areas:
+
+Antenna Design & Simulation
+
+Digital Communication
+
+PCB Design (Eagle, KiCad)
+
+
+Programming & Systems:
+
+Arduino / Embedded Systems
+
+DBMS & SQL
+
+
+Learning & Exploring:
+
+PLC SCADA & Automation
+
+VLSI Design
+
+Cloud Computing
+
+
 
 ---
 
-## 💬 Connect with Me
+🎯 Goals
 
-- 📧 Email: tusharpawar4405@gmail.com  
-- 💼 LinkedIn: [Tushar Pawar](https://www.linkedin.com/in/tushar-pawar-9a1812339)
+Contribute to open-source RF and antenna design projects
 
----
+Share PCB layouts, simulations, and embedded systems work
 
-## 📌 GitHub Goals
+Build a strong profile in wireless communication & hardware engineering
 
-- Open-source antenna design simulations  
-- PCB design templates and repositories  
-- Arduino & embedded system mini-projects  
-- Academic documentation (Reports & PPTs)
+
 
 ---
 
-## 📢 Fun Fact
+📬 Connect with Me
 
-> “A good antenna doesn’t just transmit signals — it tells a story of precision, simulation, and innovation.”
+📧 Email: tusharpawar4405@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/tushar-pawar-9a1812339
+
+
+---
+
+💡 Fun Thought
+
+> “An antenna doesn’t just transmit signals — it reflects the precision, design, and innovation behind it.”
